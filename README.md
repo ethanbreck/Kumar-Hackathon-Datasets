@@ -13,4 +13,4 @@ The Consumer Expenditure Surveys (CE) program provides data on expenditures, inc
 
 ## Files in this Repo
 
-This Repo will contain JSON files for the datasets above
+This Repo will contain XLSX for the data
